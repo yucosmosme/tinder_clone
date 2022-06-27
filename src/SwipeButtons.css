@@ -6,6 +6,8 @@
   justify-content: space-evenly;
 }
 .swipeButtons .MuiIconButton-root {
+  max-height: 100px;
+  max-width: 100px;
   background-color: white;
   box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
 }
