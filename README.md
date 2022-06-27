@@ -3,11 +3,11 @@
 https://tinderclone-2d06e.web.app/
 
 ### Client
-React
+React  
 deploy: Firebase
 
 ### Server
-Node.js (Express)
+Node.js (Express)  
 deploy: Heroku
 
 ### DB
