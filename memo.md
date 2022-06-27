@@ -25,4 +25,5 @@ $ npm i react-tinder-card --legacy-peer-deps
   --> npm run build
 
 - Firebase 호스팅에 배포
+$ npm run build
 $ firebase deploy
